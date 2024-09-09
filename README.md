@@ -318,7 +318,7 @@ your local repository.
 
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
 
-Test test
+test
 
 # Technical interviews  (and Java practice)
 
